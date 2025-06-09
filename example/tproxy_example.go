@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/LiamHaworth/go-tproxy"
+	"github.com/gaojijun/go-tproxy"
 )
 
 var (
